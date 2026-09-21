@@ -50,14 +50,16 @@
 # s*=2
 # print(s)
 
-s="h"
-s+="e"
-s+="l"
-s+="o"
-print(s)
+# s="h"
+# s+="e"
+# s+="l"
+# s+="o"
+# print(s)
 
 #walrus operator
 # x=5
 # print(x>3)
 
 # print(x:=5>3)
+
+
